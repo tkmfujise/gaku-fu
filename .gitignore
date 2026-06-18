@@ -1,0 +1,6 @@
+
+tmp/*
+!tmp/.keep
+
+crash.log
+
