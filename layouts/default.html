@@ -2,28 +2,21 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>A Brand New Nanoc Site - <%= @item[:title] %></title>
-    <link rel="stylesheet" href="/stylesheet.css">
+    <title>Gaku-fu - <%= @item[:title] %></title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="/assets/css/simple.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+		<link rel="stylesheet" href="/assets/css/syntax.gessetti.css">
+		<link rel="stylesheet" href="/assets/css/abcjs-audio.css">
+    <script src="/assets/js/abcjs-basic-min.js"></script>
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
-    <div id="main">
+    <%= render '/header.html' %>
+    <main>
       <%= yield %>
-    </div>
-    <div id="sidebar">
-      <h2>Documentation</h2>
-      <ul>
-        <li><a href="https://nanoc.app/doc/">Documentation</a></li>
-        <li><a href="https://nanoc.app/doc/tutorial/">Tutorial</a></li>
-      </ul>
-      <h2>Community</h2>
-      <ul>
-        <li><a href="http://groups.google.com/group/nanoc/">Discussion group</a></li>
-        <li><a href="https://gitter.im/nanoc/nanoc">Gitter channel</a></li>
-        <li><a href="https://nanoc.app/contributing/">Contributing</a></li>
-      </ul>
-    </div>
+    </main>
   </body>
 </html>
