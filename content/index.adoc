@@ -12,20 +12,19 @@ The quick brown fox jumps over the lazy dog.
 
 ++++
 <div id="paper"></div>
+<div id="player"></div>
 <script>
-ABCJS.renderAbc("paper", "X:1\nK:D\nDD AA|BBA2|\n");
+document.addEventListener("DOMContentLoaded", () => {
+  const score = document.querySelector('#score code').innerText
+  const player = new Player()
+  player.render('paper', score)
+  player.setup('player')
+})
 </script>
 ++++
 
 
-```ruby
-class Foo
-  def bar
-    'this is test'
-  end
-end
-```
-
+[#score]
 ```abc
 X: 1
 T: Cooley's

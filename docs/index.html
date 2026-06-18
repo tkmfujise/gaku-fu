@@ -10,6 +10,7 @@
 		<link rel="stylesheet" href="assets/css/syntax.gessetti.css">
 		<link rel="stylesheet" href="assets/css/abcjs-audio.css">
     <script src="assets/js/abcjs-basic-min.js"></script>
+    <script src="assets/js/player.js"></script>
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="Nanoc 4.14.7">
@@ -66,19 +67,16 @@
 </tbody>
 </table>
 <div id="paper"></div>
+<div id="player"></div>
 <script>
-ABCJS.renderAbc("paper", "X:1\nK:D\nDD AA|BBA2|\n");
+document.addEventListener("DOMContentLoaded", () => {
+  const score = document.querySelector('#score code').innerText
+  const player = new Player()
+  player.render('paper', score)
+  player.setup('player')
+})
 </script>
-<div class="listingblock">
-<div class="content">
-<pre class="rouge highlight"><code data-lang="ruby"><span class="k">class</span> <span class="nc">Foo</span>
-  <span class="k">def</span> <span class="nf">bar</span>
-    <span class="s1">'this is test'</span>
-  <span class="k">end</span>
-<span class="k">end</span></code></pre>
-</div>
-</div>
-<div class="listingblock">
+<div id="score" class="listingblock">
 <div class="content">
 <pre class="rouge highlight"><code data-lang="abc">X: 1
 T: Cooley's
