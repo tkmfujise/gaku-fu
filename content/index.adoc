@@ -1,31 +1,7 @@
-== Code
-
-The quick brown fox jumps over the lazy dog.
-
-[options="header"]
-|===
-| one | two | three
-| one | two | three
-| one | two | three
-| one | two | three
-|===
+== Cooley's
 
 ++++
-<div id="paper"></div>
-<div id="player"></div>
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-  const score = document.querySelector('#score code').innerText
-  const player = new Player()
-  player.render('paper', score)
-  player.setup('player')
-})
-</script>
-++++
-
-
-[#score]
-```abc
+<textarea id='score' rows=10>
 X: 1
 T: Cooley's
 M: 4/4
@@ -36,5 +12,18 @@ K: Emin
 "Em"EBBA B2 EB|B2 AB defg|"D"afe^c dBAF|"Em"DEFD E2:|
 |:gf|"Em"eB B2 efge|eB B2 gedB|"D"A2 FA DAFA|A2 FA defg|
 "Em"eB B2 eBgB|eB B2 defg|"D"afe^c dBAF|"Em"DEFD E2:|
-```
+</textarea>
 
+<div id="player"></div>
+<div id="paper"></div>
+<div id="warnings"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const player = new Player()
+  player.render('score', 'paper', 'player')
+
+  window.player = player
+})
+</script>
+++++
