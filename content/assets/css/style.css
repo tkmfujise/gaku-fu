@@ -1,16 +1,27 @@
 
+body>h1 {
+  margin: 0;
+}
 body>header {
-  /* position: sticky; */
-  /* top: 0; */
-  /* z-index: 999; */
-  /* padding: 0; */
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  padding: 0;
+  background-color: white;
 }
 body>header nav:only-child {
   margin: 0;
   margin-block-start: 0;
 }
 
+body main h2 {
+  margin-top: 0;
+}
 
 body .abcjs-inline-audio .abcjs-btn {
   padding: 10px 5px;
+}
+
+body textarea {
+  font-family: var(--mono-font);
 }

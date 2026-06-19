@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Gaku-fu - </title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="../../assets/css/simple.min.css">
+    <link rel="stylesheet" href="../../assets/css/style.css">
+		<link rel="stylesheet" href="../../assets/css/syntax.gessetti.css">
+		<link rel="stylesheet" href="../../assets/css/abcjs-audio.css">
+    <script src="../../assets/js/abcjs-basic-min.js"></script>
+    <script src="../../assets/js/player.js"></script>
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.14.7">
+  </head>
+  <body>
+    <h1>Gaku-fu</h1>
+<header>
+  <nav>
+    <a href="../../">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Notes</a>
+    <a href="#">Guestbook</a>
+  </nav>
+</header>
+
+    <main>
+      <div class="sect1">
+<h2 id="_mary_had_a_little_lamb">Mary Had A Little Lamb</h2>
+<div class="sectionbody">
+<textarea id="score" rows="10">
+T: Mary had a little lamb
+%link: https://ja.musescore.com/user/10599137/scores/5002871
+K: Cmaj
+L: 1/8
+Q: 60
+[V:1] edcd eee2|ddd2 egg2|edcd eeec|dded c4|
+
+</textarea>
+
+<div id="player"></div>
+<div id="paper"></div>
+<div id="warnings"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const player = new Player()
+  player.render('score', 'paper', 'player')
+
+  window.player = player
+})
+</script>
+</div>
+</div>
+    </main>
+  </body>
+</html>

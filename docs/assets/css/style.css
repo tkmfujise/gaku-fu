@@ -21,3 +21,7 @@ body main h2 {
 body .abcjs-inline-audio .abcjs-btn {
   padding: 10px 5px;
 }
+
+body textarea {
+  font-family: var(--mono-font);
+}
