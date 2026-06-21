@@ -1,0 +1,36 @@
+#!/usr/bin/env ruby
+class IndexBuilder
+  class << self
+    def all
+      files = Dir['content/**/index.txt']
+      files.map{|f| new(f) }
+    end
+
+    def run
+      all.each(&:perform)
+    end
+  end
+
+  attr_accessor :file
+
+  def initialize(file)
+    self.file = Pathname(file)
+  end
+
+  def files
+    file.parent.glob('**/*.abc')
+  end
+
+  def paths
+    files.map{|path|
+      '/' + path.relative_path_from('content').to_s
+    }
+  end
+
+  def perform
+    file.write(paths.join("\n"))
+  end
+end
+
+
+IndexBuilder.run

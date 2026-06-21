@@ -1,0 +1,19 @@
+T: Canon in D
+%link: https://ja.musescore.com/user/3349846/scores/1376056
+C: Pachelbel
+C: arr. David Hernández1
+K: Dmaj
+L: 1/8
+Q: 1/2=50
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] z8        |z8          |z8            |z8    |f4 e4|
+[V:2] DFAc A,CEA|B,DFB F,A,CF|G,B,DG D,F,A,D|G,B,DG A,CEA|DFAd A,CEA|
+[V:1] d4 c4		  |B4 		   A4|B4	    c4|[df]4 [ce]4|[Bd]4  [Ac]4|
+[V:2] B,DFB F,A,CF|G,B,DG D,F,A,D|G,B,DG A,CEA|DFAd  A,CEA|B,DFB F,A,CF|
+[V:1] [GB]4    [FA]4|[GB]4  [Ac]4|D2F2A2G2|F2D2F2E2|D2B,2D2A2|G2B2A2G2|F2D2E2c2|
+[V:2] G,B,DG D,F,A,D|G,B,DG A,CEA|D4   A,4|B,4  F,4|G,4   D,4|G,4  A,4|D4   A,4|
+[V:1] d2f2a2A2|B2G2A2F2|D2d2c2z2|dcdD CAEF|DdcB cfab|gfeg fedc|
+[V:2] B,4  F,4|G,4  D,4|G,4  A,4|D4    A,4|B,4   F,4|G,4  D,4|
+[V:1] BAGF EGFE|DEFG AEAG|FBAG AGFE|DB,Bc dcBA|GFEB ABAG|
+[V:2] G,4   A,4|D4    A,4|B,4   F,4|G,4    D,4|G,4   A,4|

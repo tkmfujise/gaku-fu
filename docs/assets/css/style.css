@@ -25,3 +25,7 @@ body .abcjs-inline-audio .abcjs-btn {
 body textarea {
   font-family: var(--mono-font);
 }
+
+body g.abcjs-note.playing {
+  color: deepskyblue;
+}
