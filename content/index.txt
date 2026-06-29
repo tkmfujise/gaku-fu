@@ -1,4 +1,5 @@
 /cc0/canon_in_D.abc
+/cc0/funiculi_funicula.abc
 /cc0/happy_birthday.abc
 /cc0/mary_had_a_little_lamb.abc
 /cc0/twinkle_twinkle_little_star.abc
