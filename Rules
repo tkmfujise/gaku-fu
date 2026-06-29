@@ -47,6 +47,11 @@ compile '/**/*.abc' do
 end
 
 
+compile '/**/*.css' do
+  filter :relativize_paths, type: :css
+end
+
+
 compile '/**/index.txt' do
   filter :index
   layout '/default.*'

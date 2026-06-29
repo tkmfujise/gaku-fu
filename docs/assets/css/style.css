@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'ABCLegato';
-  src: url('/assets/font/ABCLegato.ttf');
+  src: url('../font/ABCLegato.ttf');
   font-weight: normal;
   font-style: normal;
 }
