@@ -1,0 +1,12 @@
+T: AULD LANG SYNE
+%link: https://ja.musescore.com/user/33131263/scores/5785873
+K: Fmaj
+L: 1/4
+Q: 1/4=100
+%%staves {1 2}
+V:2 bass octaves=-1
+[V:1] !mp!C & C|F3/2F/FA & C3/2C/CF|G3/2F/GG & E3/2D/EA/G/|F3/2F/Ac & F3/2F/FF|[Fd]3|
+[V:2] C & C|
+[V:1]
+
+
