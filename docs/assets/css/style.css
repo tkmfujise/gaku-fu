@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'ABCLegato';
+  src: url('/assets/font/ABCLegato.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
 
 body>h1 {
   margin: 0;
@@ -23,7 +29,8 @@ body .abcjs-inline-audio .abcjs-btn {
 }
 
 body textarea {
-  font-family: var(--mono-font);
+  /* font-family: var(--mono-font); */
+  font-family: 'ABCLegato', var(--mono-font);
 }
 
 body g.abcjs-note.playing {
