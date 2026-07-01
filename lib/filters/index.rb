@@ -8,8 +8,6 @@ module Nanoc::Filters
         <<~HTML
           <tr class="audio-list">
             <td>
-            </td>
-            <td>
               <a href="#{dir}">#{dir}</a>
             </td>
           </tr>

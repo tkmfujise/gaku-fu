@@ -1,6 +1,6 @@
-/cc0/auld_lang_syne.abc
-/cc0/canon_in_D.abc
-/cc0/funiculi_funicula.abc
-/cc0/happy_birthday.abc
-/cc0/mary_had_a_little_lamb.abc
-/cc0/twinkle_twinkle_little_star.abc
+/C_maj/happy_birthday.abc
+/C_maj/mary_had_a_little_lamb.abc
+/C_maj/twinkle_twinkle_little_star.abc
+/D_maj/canon_in_D.abc
+/F_maj/auld_lang_syne.abc
+/F_maj/funiculi_funicula.abc
