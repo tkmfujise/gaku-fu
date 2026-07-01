@@ -1,0 +1,15 @@
+T: Flohwalzer
+%link: https://imslp.org/wiki/Der_Flohwalzer_(Anonymous)
+K: Gb
+L: 1/4
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] E/D/|z[B,G][B,G]E/D/|z[B,G][B,G]E/D/|z[B,G]z[B,G]|z[CF][CF]E/D/|
+[V:2]  z|Gzz2       |Gzz2       |Gz   Ez   |Dzz2       |
+[V:1] z[CF][CF]E/D/|z[CF][CF]E/D/|z[CF]z[CF]|z[B,G][B,G]E/D/|
+[V:2] Dzz2       |Dzz2       |Dz   Ez   |Gzz2       |
+V:2 treble octave=0
+[V:1] z[B,G][B,G]E/D/|z[B,G][B,G]E/D/|z[B,G]z[B,G]|z[CF][CF]E/D/|
+[V:2] Bzz2       |Bzz2       |Bz   dz   |ezz2       |
+[V:1] z[CF][CF]E/D/|z[CF][CF]E/D/|z[CF]z[CF]|z[B,G][B,G]|]
+[V:2] ezz2       |ezz2       |ez   dz   |B2z      |]
