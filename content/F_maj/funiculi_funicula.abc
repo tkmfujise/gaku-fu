@@ -1,11 +1,22 @@
 T: Funiculi Funicula
-%link: https://ja.musescore.com/user/9128922/scores/4978359
-K: Fmaj
+%link: https://ja.musescore.com/user/33131263
+K: Eb
 L: 1/4
 M: 6/8
 Q: 1/2=100
-[V:1] (e3/2d/)z/z/|(e3/2d/)z/z/|fe/df/|(e3/2d/)z/z/|
-[V:1] (e3/2d/)z/z/|(e3/2d/)z/z/|fe/df/|cA/AA/|AA/AA/|
-[V:1] AA/AA/|AA/AA/|f3|gf/df/|
-[V:1] dA/AB/|cB/AG/|Fz/fz/|]
-
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] z3/2zB/|(e3|e)e/dd/|BB/cc/|G3/2(G3/2|G)G/FE/|(E3|E/)z/G/FE/|
+[V:2] z3    |z3 |z3   |z3  |z3       |z3   |z3 |z3     |
+[V:1] (E3|E)z/zB/|(e3|e)e/dd/|BB/cc/|G3/2(G3/2|G)G/FE/|(E3|E/)z/ G/FE/|
+[V:2] z3 |z3    |z3 |z3   |z3  |z3       |z3   |z3 |z3|
+[V:1] (E3|E)z/zG/|(G3|G)G/=AA/|GG/=AA/|G3/2(G3/2|
+[V:2] z3 |z3    |z3 |z3    |z3   |z3       |
+[V:1] G)D/DD/|(D3|D/)z/ D/DD/|(D3|D)z/zB/|(B3|
+[V:2] z3   |z3 |z3      |z3 |z3    |z3 |
+[V:1] B)B/cc/|BB/cc/|B3/2(B3/2|B)F/FF/|(F3|!f!F/)z/ F/FF/|(F3|F)z/z3/2|
+[V:2] z3   |z3  |z3       |z3   |z3 |z3          |z3 |z3  |
+[V:1] [dB]3/2[AF]/z/z/|[dB]3/2[AF]/z/z/|[ec][dB]/[AF][ec]/|([dB]3/2[dB])z/|[dB]3/2[AF]/z/z/|[dB]3/2[AF]/z/z/|[ec][dB]/[cA][ec]/|[BG]/z/[EG]/[EG][EG]/|
+[V:2] B3/2B/z/z/|B3/2B/z/z/|BB/BB/|(B3/2B)z/|B3/2B/z/z/|B3/2B/z/z/|BB/BB/|[BE]/z/[BE]/[BE][BE]/|
+[V:1] [FG][FG]/[FG][FG]/|[EG][EG]/[EG][GE]/|GG/G!mf!G/|!<(![ce]3|!<)!!f![df][ce]/[Ac][ce]/|[GB]/z/ [EG]/[EG][FA]/|[GB][FA]/[EG][DF]/|Ez/z3/2|]
+[V:2] [=BD][BD]/[BD][BD]/|[cC][cC]/[cC][cC]/|[=B,d][B,d]/[B,d][B,d]/|[cC]3|AA/AA/|B/z/ B/BB/|B[BB,]/[BB,][AB,]/|[GE]z/z3/2|]
