@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Gaku-fu - </title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="../../assets/css/simple.min.css">
+    <link rel="stylesheet" href="../../assets/css/style.css">
+		<link rel="stylesheet" href="../../assets/css/syntax.gessetti.css">
+		<link rel="stylesheet" href="../../assets/css/abcjs-audio.css">
+    <script src="../../assets/js/abcjs-basic-min.js"></script>
+    <script src="../../assets/js/player.js"></script>
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.14.7">
+  </head>
+  <body>
+    <h1>Gaku-fu</h1>
+<header>
+  <nav>
+    <a href="../../">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Notes</a>
+    <a href="#">Guestbook</a>
+  </nav>
+</header>
+
+    <main>
+      <div class="sect1">
+<h2 id="_yankee_doodle">Yankee Doodle</h2>
+<div class="sectionbody">
+<textarea id="score" rows="10">
+T: Yankee Doodle
+%link: https://ja.musescore.com/user/33131263/scores/5786962
+K: Amaj
+M: 2/4
+L: 1/8
+Q: 1/4=100
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] C &amp; C|[AC][AC] [BD][cE]|[AC][cE] [BD][GD]|[AC][AC] ([BD][cE]|[AC]2 [GD][ED])|
+[V:2] E &amp; E|[AA,][AA,] [GE][GE]|[AA,][AA,] [GE][BE]|[AA,][AA,] ([GE][GE])|[AA,]2 [BE][GE]|
+[V:1] [AC][AC] [BD][cE]|[dF][cF] [BF][AF]|GE FG &amp; EE DD|[AC]2 [AC]z|
+[V:2] AA AA &amp; A,A, AA|[AD][AD] [dD][dD]|[BE][GE] [AE][BE]|[AA,]2 [AA,]z|
+[V:1] [FD]3/2[GE]/ [FD][EC]|[FD][GE][AF]2|[EC]3/2[FD]/ [EC][DB,]|[CA,][DB,] [EC]z|
+[V:2] [AD]3/2[AD]/ [AD][AD]|[AD][AD][AD]2|[AA,]3/2[AA,]/ [AA,][AA,]|[EA,]2 [AA,]z|
+[V:1] [FD]3/2[GE]/ [FD][EC]|[FD][GE] [AF][FD]|[EC][AC] [GD][BD]|[AC]2 [AC]|]
+[V:2] [AD]3/2[AD]/ [AD][AD]|[AD][AD] [AD][AD]|[AE][AE] [BE][GE]|[AA,]2 [AA,]|]
+
+
+</textarea>
+
+<div id="player"></div>
+<div id="paper"></div>
+<div id="warnings"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const player = new Player()
+  player.render('score', 'paper', 'player')
+
+  window.player = player
+})
+</script>
+</div>
+</div>
+    </main>
+  </body>
+</html>
