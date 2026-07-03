@@ -24,7 +24,7 @@ module Nanoc::Filters
 
     private
       def dir_for(path)
-        path.sub(/\.abc$/, '')
+        path.sub(/\.abc$/, '').sub(/^\//, '')
       end
   end
 end

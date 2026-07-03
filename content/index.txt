@@ -1,8 +1,10 @@
 /A_maj/yankee_doodle.abc
 /C_maj/happy_birthday.abc
 /C_maj/mary_had_a_little_lamb.abc
+/C_maj/rondo_alla_turca.abc
 /C_maj/twinkle_twinkle_little_star.abc
 /D_maj/canon_in_D.abc
 /E_b/funiculi_funicula.abc
 /F_maj/auld_lang_syne.abc
+/F_maj/funiculi_funicula.abc
 /G_b/flohwalzer.abc
