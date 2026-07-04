@@ -1,0 +1,15 @@
+T: Für Elise
+C: Ludwig van Beethoven
+%link: https://ja.musescore.com/user/18368237/scores/4911910
+K: Amin
+M: 3/8
+Q: 1/4=57
+L: 1/16
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] e^d|e^deB=dc|A2z CEA|B2z E^GB|c2z Ee^d|e^deB=dc|A2z CEA|
+[V:2] z2|z6|A,EAz3|E,E^Gz3|A,CAz3|z6|A,CAz3|
+[V:1] B2z EcB|[1 A2z2:|][2 A2z Bcd|:e3 Gfe|d3 Fed|c3 Edc|B2z Eez|zee'zz ^d|
+[V:2] E,E^Gz3|[1 A,EAz:|][2 A,EAz3|:CEcz3|G,GBz3|A,EAz3|E,Eezz e|e'zz ^d'e'z|
+[V:1] ezz ^ded|e^deB=dc|A2z CEA|B2z E^GB|c2z Ee^d|e^deB=dc|A2z CEA|
+[V:2] z^d'e'z3|z6|A,EAz3|E,E^Gz3|A,EAz3|z6|A,EAz3|

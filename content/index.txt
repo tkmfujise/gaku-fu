@@ -1,4 +1,5 @@
 /A_maj/yankee_doodle.abc
+/A_min/fur_elise.abc
 /C_maj/happy_birthday.abc
 /C_maj/mary_had_a_little_lamb.abc
 /C_maj/rondo_alla_turca.abc
