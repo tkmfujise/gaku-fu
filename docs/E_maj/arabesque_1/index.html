@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Gaku-fu - </title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="../../assets/css/simple.min.css">
+    <link rel="stylesheet" href="../../assets/css/style.css">
+		<link rel="stylesheet" href="../../assets/css/syntax.gessetti.css">
+		<link rel="stylesheet" href="../../assets/css/abcjs-audio.css">
+    <script src="../../assets/js/abcjs-basic-min.js"></script>
+    <script src="../../assets/js/player.js"></script>
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.14.7">
+  </head>
+  <body>
+    <h1>Gaku-fu</h1>
+<header>
+  <nav>
+    <a href="../../">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Notes</a>
+    <a href="#">Guestbook</a>
+  </nav>
+</header>
+
+    <main>
+      <div class="sect1">
+<h2 id="_arabesque_1">Arabesque 1</h2>
+<div class="sectionbody">
+<textarea id="score" rows="10">
+T: Arabesque No.1
+C: Claude Debussy
+%link: https://ja.musescore.com/user/161593/scores/4242556
+K: Emaj
+Q: 116
+%staves {1 2}
+[V:1] !p!z2((3cef (3gdB)z2 &amp;x8|z2((3Acd (3eBG)z2 &amp;x8|
+[V:2]    ((3CEA  z4 (3GDB,) &amp;x8|((3A,CF  z4 (3EB,G,) &amp;x8|
+V:2 bass octave=-1
+[V:1] z2((3(cFA-A2) ((3cFA) &amp;x2(c2f2c2)|[cA]2) ((3cFA- !&lt;(!A2 (3aA!&lt;)!c &amp;x2c2f2a2|a2) [Q:100](a4(3agf) &amp;x8|
+[V:2] ((3FAc-c2)((3EAc-c2) &amp;F4E4      |(3DAc- c2(3EAc- c2 &amp;D4E4|"rit."((3B,FA (3Adf (3ac'd' (3c'ba) &amp;x8|
+[V:1]
+[V:2]
+
+
+
+</textarea>
+
+<div id="player"></div>
+<div id="paper"></div>
+<div id="warnings"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const player = new Player()
+  player.render('score', 'paper', 'player')
+
+  window.player = player
+})
+</script>
+</div>
+</div>
+    </main>
+  </body>
+</html>

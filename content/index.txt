@@ -6,6 +6,7 @@
 /C_maj/twinkle_twinkle_little_star.abc
 /D_maj/canon_in_D.abc
 /E_b/funiculi_funicula.abc
+/E_maj/arabesque_1.abc
 /F_maj/auld_lang_syne.abc
 /G_b/flohwalzer.abc
 /G_maj/csikos_post.abc

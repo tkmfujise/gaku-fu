@@ -1,0 +1,15 @@
+T: Arabesque No.1
+C: Claude Debussy
+%link: https://ja.musescore.com/user/161593/scores/4242556
+K: Emaj
+Q: 116
+%staves {1 2}
+[V:1] !p!z2((3cef (3gdB)z2 &x8|z2((3Acd (3eBG)z2 &x8|
+[V:2]    ((3CEA  z4 (3GDB,) &x8|((3A,CF  z4 (3EB,G,) &x8|
+V:2 bass octave=-1
+[V:1] z2((3(cFA-A2) ((3cFA) &x2(c2f2c2)|[cA]2) ((3cFA- !<(!A2 (3aA!<)!c &x2c2f2a2|a2) [Q:100](a4(3agf) &x8|
+[V:2] ((3FAc-c2)((3EAc-c2) &F4E4      |(3DAc- c2(3EAc- c2 &D4E4|"rit."((3B,FA (3Adf (3ac'd' (3c'ba) &x8|
+[V:1] 
+[V:2] 
+
+
