@@ -6,6 +6,5 @@
 /D_maj/canon_in_D.abc
 /E_b/funiculi_funicula.abc
 /F_maj/auld_lang_syne.abc
-/F_maj/funiculi_funicula.abc
 /G_b/flohwalzer.abc
 /G_maj/csikos_post.abc
