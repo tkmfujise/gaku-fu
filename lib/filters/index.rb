@@ -8,7 +8,7 @@ module Nanoc::Filters
         <<~HTML
           <tr class="audio-list">
             <td>
-              <a href="#{dir}">#{dir}</a>
+              <a href="#{dir}">#{format_dir dir}</a>
             </td>
           </tr>
         HTML
@@ -25,6 +25,10 @@ module Nanoc::Filters
     private
       def dir_for(path)
         path.sub(/\.abc$/, '').sub(/^\//, '')
+      end
+
+      def format_dir(dir)
+        dir.gsub('/', ' / ')
       end
   end
 end
