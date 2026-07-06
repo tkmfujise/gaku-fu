@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Gaku-fu - </title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="../../assets/css/simple.min.css">
+    <link rel="stylesheet" href="../../assets/css/style.css">
+		<link rel="stylesheet" href="../../assets/css/syntax.gessetti.css">
+		<link rel="stylesheet" href="../../assets/css/abcjs-audio.css">
+    <script src="../../assets/js/abcjs-basic-min.js"></script>
+    <script src="../../assets/js/player.js"></script>
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.14.7">
+  </head>
+  <body>
+    <h1>Gaku-fu</h1>
+<header>
+  <nav>
+    <a href="../../">Home</a>
+    <a href="#">About</a>
+    <a href="#">Blog</a>
+    <a href="#">Notes</a>
+    <a href="#">Guestbook</a>
+  </nav>
+</header>
+
+    <main>
+      <div class="sect1">
+<h2 id="_minuet_in_g_major">Minuet In G Major</h2>
+<div class="sectionbody">
+<textarea id="score" rows="10">
+T: Minuet in G Major
+T: BWV 114
+C: Christian Petzold
+%link: https://pianocoda.com/christian-petzold/minuet-in-g-major-bwv-114/
+K: Gmaj
+Q: "Allegretto" 1/4=120
+M: 3/4
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] !mf!(d2 GABc|d2.G2).G2|(e2 !pralltriller!cdef|g2.G2).G2|
+[V:2] [dBG]4 A2|B6 |c6 |B6|
+[V:1] (c2 dcBA|B2) (cBAG|F2 GABG|B2 A4)|
+[V:2] A6 |G6 |(d2B2) .G2|(d2 DcBA|
+[V:1] (d2 GABc|d2.G2).G2|(e2 !pralltriller!cdef|g2.G2).G2|
+[V:2] B4) A2|(G2.B2).G2|c6 |(B2 cBAG|
+[V:1] (c2 dcBA|B2 cBAG|A2 B!&gt;(!AG!&gt;)!F|G6):|]
+[V:2] A4) F2|G4 B2|(c2d2).D2|G4 G,2:|]
+
+</textarea>
+
+<div id="player"></div>
+<div id="paper"></div>
+<div id="warnings"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const player = new Player()
+  player.render('score', 'paper', 'player')
+
+  window.player = player
+})
+</script>
+</div>
+</div>
+    </main>
+  </body>
+</html>

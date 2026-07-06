@@ -11,3 +11,4 @@
 /F_maj/auld_lang_syne.abc
 /G_b/flohwalzer.abc
 /G_maj/csikos_post.abc
+/G_maj/minuet_in_G_Major.abc
