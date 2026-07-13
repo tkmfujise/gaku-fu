@@ -53,7 +53,7 @@ module Nanoc::Filters
         score.each_line.each do |line|
           case line
           when /^T: (.+)$/
-            self.title = $1
+            self.title ||= $1
           end
         end
         self.title ||= default_title

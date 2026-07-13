@@ -1,0 +1,17 @@
+T: Impertinence
+T: HWV 494
+C: Händel
+%link: https://pianocoda.com/handel/impertinence-hwv-494/
+K: Gmin
+Q: "Allegro" 1/4=140
+L: 1/4
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] !f!D|GBA(G/^F/|G2)D2|(A/B/c)BA|B2G2|
+[V:2] z|z2zD|GAB(A/G/)|^F2D2|G(G,/A,/B)C|
+[V:1] (B/c/d)cB|c2(Fd)|e2!trill!c2|d3:|!mp!d|(d/e/f)ed|e2c2|
+[V:2] DB,A,G,|F,FED|C2G2|A3:|z|z2zB|cdec|
+[V:1] (c/d/e)dc|d2B2|!<(!(d/c/e)cB|!<)!(A/B/c)BA|B(A/B/G)g|
+[V:2] A2F2|BcdB|G2e2|^F2d2|G2E2|
+[V:1] !<(!^f2d2|!<)!!f!ga(b/a/g/^f/)|g2d2|!>(!(e/d/c/B/)!>)!!trill!A2|G3:|]
+[V:2] D(C/D/B,)G,|ECDd|.e(d/c/B)G|cAdB,|G3:|]
