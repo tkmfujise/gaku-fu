@@ -3,7 +3,10 @@ module Nanoc::Filters
     identifier :abc
     requires 'asciidoctor'
 
+    attr_accessor :title
+
     def run(score, params = {})
+      extract_attributes(score)
       content = <<~ADOC
         == #{title}
         ++++
@@ -46,7 +49,17 @@ module Nanoc::Filters
         @name ||= File.basename(filepath, '.*')
       end
 
-      def title
+      def extract_attributes(score)
+        score.each_line.each do |line|
+          case line
+          when /^T: (.+)$/
+            self.title = $1
+          end
+        end
+        self.title ||= default_title
+      end
+
+      def default_title
         name.split('_').map(&:capitalize).join(' ')
       end
   end

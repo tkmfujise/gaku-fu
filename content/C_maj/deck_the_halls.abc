@@ -1,3 +1,13 @@
 T: Deck the Halls
+C: Thomas Oliphant
 %link: https://pianocoda.com/christmas-music/deck-the-halls/
-
+Q: 1/4=120
+L: 1/4
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] G3/2F/ED|CDEC|D/E/F/D/ E3/2D/|CB,C2|
+[V:2] C4     |C4  |F4        |G2C2|
+[V:1] D3/2E/FD|E3/2F/GD|E/F/GA/B/c|BAG2|
+[V:2] G4     |C4     |C2  D2|GDG2|
+[V:1] G3/2F/ED|CDEC|A/A/A/A/G3/2F/|EDC2|]
+[V:2] C4     |C4  |C2     C2|G2C2|]

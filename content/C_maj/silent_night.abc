@@ -1,2 +1,16 @@
 T: Silent Night
+C: Franz Gruber
 %link: https://pianocoda.com/christmas-music/silent-night/
+L: 1/4
+M: 3/4
+Q: 1/4=100
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] !mp!G3/2A/G|E3   |G3/2A/G|!<(!E3|!<)!!mf!d2d|B3   |
+[V:2] (CEG)     |(CEG)|(CEG) |(CEG) |(B,FG)      |(DFG)|
+[V:1] c2c  |G3   |A2  A|c3/2B/A|G3/2A/G|E3   |
+[V:2] (CEG)|(CEG)|(FAc)|(FAc) |(CEG) |(CEG)|
+[V:1] A2  A|c3/2B/A|G3/2A/G|E3   |d2d  |f3/2d/B|
+[V:2] (FAc)|(FAc) |(CEG) |(CEG)|(B,FG)|(DFG) |
+[V:1] c3   |!>(!e3!>)!|!p!cGE|G3/2F/D|C3   |C3|]
+[V:2] (CEG)|(CEG)     |(CEG) |(B,DG) |(CEG)|C3|]

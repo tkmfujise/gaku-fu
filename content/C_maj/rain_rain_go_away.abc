@@ -1,2 +1,20 @@
 T: RAIN, RAIN, GO AWAY
+C: Nursery rhyme
 %link: https://pianocoda.com/kids-songs/rain-rain-go-away/
+Q: 1/4=110
+L: 1/4
+M: 2/4
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] .E.E|(F/E/).D|.E.E|(F/E/).D|.E.A|
+[V:2] .A,.A,|B,2    |.A,.A,|B,2    |A,z|
+[V:1] .F.A|.E.A|(E/D/) .C|.D.E|zz|
+[V:2] .Dz |.A,z |(C/B,/).A,|.B,.G,|(C/B,/).A,|
+[V:1] .D.E|z2     |z/(B,/ A,/).B,/|z/(D/ C/).D/|E2- |E2  |
+[V:2] .B,.G,|(C/B,/).A,|G,2          |A,2       |.B,.D|.C.B,|
+[V:1] .E.E|(F/E/).D|.A.E|(F/E/).D|.A.E|.A.F|
+[V:2] .A,.A,|B,2    |.A,.A,|B,2    |.A, z|.D z|
+[V:1] .E.A|(E/D/) .C|.D.E|z2     |.D.E|z2     |
+[V:2] .A, z|(C/B,/).A,|.B,.G,|(C/B,/).A,|.B,.G,|(C/B,/).A,|
+[V:1] EA|ED|CB,|A,2-|A,2|]
+[V:2] Cz|G,2|A,G,|zA,-|A,2|]
