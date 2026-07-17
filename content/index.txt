@@ -1,5 +1,6 @@
 /A_maj/yankee_doodle.abc
 /A_min/fur_elise.abc
+/A_min/six_dances_in_bulgarian_rhythm_6.abc
 /C_maj/deck_the_halls.abc
 /C_maj/happy_birthday.abc
 /C_maj/mary_had_a_little_lamb.abc

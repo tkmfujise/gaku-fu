@@ -1,0 +1,63 @@
+T: Six Dances in Bulgarian Rhythm
+T: from "Mikrokosmos"
+T: 6 (No.153)
+C: Béla Bartók
+%link: https://imslp.org/wiki/Mikrokosmos,_Sz.107_(Bart%C3%B3k,_B%C3%A9la)
+M: 3+3+2/8
+Q: "(3+3+2)/8=56" 1/1=56
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] !f!!marcato![^G^Be]3!marcato![^G^Be]3!marcato![^G^Be]2|!marcato![Bdg]3z3z2|[df_b]3[=Bdg]3[G_B_e]2|[Gc]3z3z2|
+[V:2] (Ee)e (Ee)e (Ee)|(Ee)e (Ee)e (Ee)|(Ee)e (Ee)e (Ee)|(Ee)e (Ee)e (Ee)|
+V:1 bass octave=-1
+[V:1] [C_E_A]3[_DF_B]3[=DG=B]2|[_E^Fc]3z3z2|[B,^D]3[A,=C]3[=D,G,]2|E,3z3z2|
+[V:2] (Ee)e (Ee)e (Ee)|(Ee)e (Ee)e (Ee)|(Ee)e (Ee)e (Ee)|(Ee)e (Ee)e E^f|
+V:1 treble octave=0
+[V:1] (^g^G)G (gG)G (gG)|(^g^G)G (gG)G (gG)|(^g^G)G (gG)G (gG)|(^g^G)G (gG)G (gG)|
+[V:2] !marcato![^D^^F]3!marcato![^B,E]3!marcato![DF]2|!marcato![^CE]3z3z2|[K: clef=treble]"simile"!marcato![^be']3!marcato![=a^c']3!marcato![be']2|!marcato![^^f=b]3z3z2|
+V:2 bass octave=-1
+[V:1] (^g^G)G !<(!(gG)G (gG)|(^g^G)G (gG)G (gG)|(^g^G)G (gG)G !<)!(gG)|(^g^G)G !>(!G^FE ^D!>)!^C|
+[V:2] !marcato![D,F,_B,]3!marcato![D,F,B,]3!marcato![^F,A,D]2|!marcato![G,_B,_E]3!marcato![A,CF]3!marcato![=B,DG]2|!marcato![^CEA]3!marcato![DF_B]3!marcato![EG=c]2|!marcato![^FAd]3z3z2|
+[V:1] !mf! =CCC CCC CC|=ACC CCC CC|(=DC)C CCC CC|(=FG)_A (GF)D F2|
+[V:2] [^FA]3[^DF]3[^E^G]2 & B,8-|[^FA]3[^DF]3[^E^G]2 & B,8-|[^FA]3[^DF]3[^E^G]2 & B,8|[^FA]3[c-F]3[cG]2|
+[V:1] zFF (GF)F FF|zFF (cF)F FF|zFF (GF)F zF|!f!(=cd)_e dcA c2|
+[V:2] [^GB]3[Bd]3[^A^c]2 & E8-|[^ce]3[Bd]3[^A^c]2 & E8-|[^GB]3[Bd]3[^A^c]2 & E8|[K:clef=treble] [^ce]3[^d^f]3 z[^gb]|
+V:2 treble octave=0
+[V:1] "_più" !f!(ga)_b ag^f g2|(de)f ed^c d2|(AB)c BAG A2|(E^F)G FE^C E2|
+[V:2] z3 (^C^D)E DC|^B, ^C2[K:clef=bass](^G,^A,B,) A,G,|^^F, ^G,2 (^D,^E,^G,) E,D,|^C, ^D,2 (^A,,^B,,)C, B,,A,,|
+V:2 bass octave=-1
+[V:1] "strepitoso" (B,^C)D CB,A, ^G,^A,|(B,^C)D CB,A, ^G,^A,|(B,^C)D CB,A, ^G,^A, & !marcato!E3 !marcato!F3-F2-|
+[V:2] ^^F, ^A,2 z3 z2|(B,^CD) CB,A, ^G,^A,|(B,^CD) CB,A, ^G,^A,|
+[V:1] (B,^C)D (CB,A,) (^G,^A,) & F8|(B,^C)D (CB,A,) (^G,^A,) & G8-|(B,^C)D (CB,A,) (^G,^A,) & G3 !marcato!F3-F2|
+[V:2] (B,^C)D CB,A, ^G,^A,|(B,^C)D CB,A, ^G,^A,|(B,^C)D CB,A, ^G,^A,|
+[V:1] (B,^C)D CB,A, ^G,z & !marcato!E3 !marcato!F3 !sfz!=Gz|z!mf!A,B, (CB,)A, ^C^D|!<(!EFG (_AG)F =AB|
+[V:2] (B,^C)D CB,A, ^G,^F,|=F,2z z3z2|zF,G, (_A,G,)F, =A,B,|
+[V:1] ^B^c^d (ed)c =fg|!<)!!f!(a_b)c' d'c'b ag|fed (^cd)e fg|
+[V:2] ^B,,^C,^D, (E,D,)C, =F,G,|"marc."!marcato!A,3!marcato!=B,3!marcato!C2 & ^D,8-|!marcato!=D3!marcato!C3!marcato!B,2 & D,8|
+[V:1] [aA]_Bc dcB AG|FED (^CD)E FG|!<(!(AB)c d^dz z2|(AB)c d^dz z2|
+[V:2] A,3=B,3C2 & ^D,8-|=D3=C3B,2 & D,8|z2 z(^F,G,)A, _B,C|=B,zz (^G,A,)B, =CD|
+[V:1] (AB)c d^dz z2|!<)!!ff!"_marcatissimo"[^G^ce]3[GBe]3[^F^A^d]2|[B=d=g]3 z3z2|[_Bdf_b]3[G=Bdg]3[G_B_e]2|
+[V:2] ^Czz (^A,B)=C D^D|z2z[^C^G]3[^D^A]2|[B,B]3[B,B]3[A,A]2 & E3z2zz2|[F_B]3[G=B]3[_B_e]2 & [Dd]3 z2zz2|
+[V:1] [=EGc]3 z2zz2|[K:clef=bass] [C,_E,_A,]3[D,F,_B,]3[=E,G,C]2|[F,_A,_D]3 z2zz2|[K:clef=treble] [^F=A=d]3[_EF=B]3[A,^CG]2|[^G,DE]3 z2zz2|
+[V:2] [GG,]3[EE,]3[CC,]2 & c3 z2zz2|[G,G,,]3 z2zz2|[F,F,,]3[G,G,,]3[=A,=A,,]2|[_B,_B,,]3 z2zz2|[=B,=B,,]3[^G,^G,,]3[E,E,,]2|
+[V:1] [_B_eg]3[Gc=e]3[B_eg]2|[Gc=e]3 z2zz2|[G=ce]3[EAc]3[Gce]2|[_E_G_c]3 z2zz2|!f![F,_B,]3[_A,_D]3!<(![B,_E]2|
+[V:2] [^C,^C,,]3 z2zz2|[Ec]3[^CA]3[E=c]2|[^CA]3 z2zz2|_A,3_E,3A,2 & =C,8|[D,_B,]3 z2zz2|
+[V:1] [A,CF]3[B,DG]3[^CEA]2|[DF_B]3[EGc]3[^FAd]2|[^GBe]3 z2zz2|!<)!!ff![^FAd]3[^GBe]3[Ac=g]2|x8 & z8|[Bd=g]3[^GBe]3[Ac=g]2|
+[V:2] _E3D3^C2|[=B=B,]3[AA,]3[GG,]2|[=F=F,]3[EE,]3[DD,]2|[^C^C,]3 z2zz2|[^D^D,]3[EE,]3[^F^F,]2|x8 & z8|
+[V:1] x8 & z8|!marcato![e^^f^b]3[^cea]3[^A^d^f]2|!<(![^G^ce]3[^FG=d]3[EA=c]2|!<)!!ff![^D^GB]3 z2zz2|
+[V:2] !f!!<(!^A,,^A,A, B,,B,B, ^C,C|^D,^D!<)!D ^E,^EE ^^F,^^F|^G,^GG ^A,^AA B,B|"_Ped."=ccc ccc cc|
+[V:1] x8 & z8|x8 & z8|x8 & z8|x8 & z8|x8 & z8|
+[V:2] ccc ccc cc|ccc ccc cc|ccc !>(! ccc cc|ccc ccc cc|ccc ccc cc|
+[V:1] x8 & z8|!mf![Acf]3[Acf]3[_B=B_e]2|[c_e_a]3[cea]3[e^e_b]2|[egc']3[egc']3[=a_a_e']2|[df_b]3[dfb]3[^G^c=g]2|
+[V:2] ccc ccc !>)!cc|"leggiero"Ccc Ccc Cc|Ccc Ccc Cc|Ccc Ccc Cc|Ccc Ccc Cc|
+[V:1] [A_ef]3[Aef]3!>(![_Bd_a]2|[^F^G_e]3[FGe]3!>)![=GAc]2|!p!BBB BBB BB|(eB)B BBB BB|
+[V:2] Ccc Ccc Cc|x8 & z8|[^GBe]3[GBe]3[^FAd]2|[Bdg]3[Bdg]3[^cea]2|
+[V:1] BBB BBB BB|(=dB)B BBB BB|BBB BBB BB|
+[V:2] [^GBe]3[GBe]3[^FAd]2|[^D^FB]3[DFB]3[^CEA]2|[^B,^D^G]3[B,DG]3[^^G,^B,^E]2|
+[V:1] (cB)B BBB BB|[K:clef=bass] "_più"!p! z=B,B, zB,B, zB,|z=B,B, zB,B, zB,|
+[V:2] [EGc]3[EGc]3[^FAd]2|[^B,^D^G]3[B,DG]3[^A,^C^F]2|[^B,^D^G]3[B,DG]3[^^G,^B,^E]2|
+V:1 bass octave=-1
+[V:1] !<(! zBB zBB zB|zBB zBB zB|!<)!!mf! zBB zBB zB & z2z [^C^F]3 [F^A]2|zBB zBB zB & z2z !<(![^C^F]3 [F^A]2|
+[V:2] [^B,^D^G]3[B,DG]3[^A,^C^F]2|[=A,=C=F]3[B,DG]3[B,DG]2|"_Ped."!sfz!(F,8|!marcato!=D8)|
+[V:1] zBB zBB zB & z2z [^C^F]3 [F^A]2|zBB zBB zB & z2z [^C^F]3 [F!<)!^A]2|x8 & z8|[K:clef=treble] !ff! [Bbb'][Bbb'][Bbb'] ([dd'][Bbb'])[Bbb'] [Bbb']2|x8 & z8|]
+[V:2] !marcato!=F8|!marcato!A8|!marcato! [E,B,EGB]-8|[E,B,EGB]-8|!fermata![E,B,EGB]8|]
