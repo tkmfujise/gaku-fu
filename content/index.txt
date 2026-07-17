@@ -17,6 +17,7 @@
 /E_maj/arabesque_1.abc
 /E_min/impertinence.abc
 /F_maj/auld_lang_syne.abc
+/F_min/gnossienne_1.abc
 /G_b/flohwalzer.abc
 /G_maj/amazing_grace.abc
 /G_maj/csikos_post.abc
