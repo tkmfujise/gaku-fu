@@ -1,0 +1,18 @@
+T: Old French Song
+C: Pyotr Ilyich Tchaikovsky
+%link: https://pianocoda.com/tchaikovsky/old-french-song/
+K: Gmin
+L: 1/8
+M: 2/4
+Q: "Moderato assai." 1/4=80
+%%staves {1 2}
+V:2 bass octave=-1
+[V:1] !p! D|(GABc|d3)(d|cdec|d3)(d|cdec|de/d/ cB|!<(!A7/2!<)!!>(!G/|
+[V:2] z|(Bcdc & G4-|B4) & G2G2-|(e2c2 & G4-|B2)(G2 & G2G2-|e2c2 & G4|B2G2) & G2(G2|c4 & ^F2D2|
+[V:1] G3)!pp!(D|GABc|d3)d|cdec|d3(d|cdec|de/d/ cG|!<(!A7/2!<)!!>(!G/|!>)!G4)|
+[V:2] x4 & [GB]2).G,2|(Bcdc & G4-|B4) & G2G2-|(e2c2 & G4-|B2)(G2 & G2G2-|e2c2 & G4|B2G2) & G2(G2|c4 & ^F2D2|B4 & G4)|
+[V:1] !p! (G2GA|B3)(B|c2)(c2|!<(!A3)(A|d3)!<)!(d|!mf!eg/e/ dc|B2!>(!AG|[^FA]7/2)!>)!!p!(D/|
+[V:2] .C.G.c.e|.G,.G.B.d|.C.G.c.e|.D.A.c.^f|([GB]dg)z|([ceg]4|[dg]2)z2|(d2D2)|
+[V:1] GABc|d3)(d|cdec|d3)(d|cdec|de/d/ cB|!<(!A7/2!<)!!>(!G/ & E2E2| G4) & B,4|]
+[V:2] (Bcdc & G4-|B4) & G2G2-|(e2c2 & G4|B2)(G2 & G2G2-|e2c2 & G4-|B2G2) & G2G2|(G2^F2 & C2D2|D4) & G,4|]
+

@@ -7,5 +7,9 @@ Q: "Lento" 1/4=90
 V:2 bass octave=-1
 [V:1] z2 !p!(ce=d2c2|{c}=B4{c}=B4)|z2 (ce=d2c2|{e}f4{e}f4)|
 [V:2] z2 !p![Acf]4[Acf]2 & F,8|z2[Acf]4[Acf]2 & F,8|z2[Acf]4[Acf]2 & F,8|z2[Acf]4[Acf]2 & F,8|
-[V:1] z2(ce=d2c2|!>(!{c}=B4{A}G4|{F}G2{F}G4!>)!G)z|!f!{A}G2{G}(F2F4-)|F8:|
+[V:1] z2(ce=d2c2|!>(!{c}=B4{A}G4|{F}G2{F}(G4!>)!G))z|!f!{A}G2{G}(F2F4-)|F8:|
 [V:2] z2[Acf]4[Acf]2 & F,8|z2[Acf]4[Acf]2 & F,8|z2[EGc]4[EGc]2 & C8|z2[Acf]4[Acf]2 & F,8|z2[Acf]4[Acf]2 & F,8:|
+[V:1] |: !f! ({A}B4 {A}G4|{A}B4 {A}G4|{A}G2 {G}(F2F4)|F8) :||: !p! z(c=d=e fg=bg|
+[V:2] |: z2[FBd]4[FBd]2 & B,,8|z2[FBd]4[FBd]2 & B,,8|z2[FBd]4[FBd]2 & B,,8|z2[FBd]4[FBd]2 & B,,8 :||: z2[FBd]4[FBd]2 & B,,8|
+[V:1] f2{g}(f2f4)|{g}f4 {f}=e4|{_d}c4 {c}=B4|{A}G2 {G}(F2F4-)|F8) :|]
+[V:2] z2[FBd]4[FBd]2 & B,,8|z2[FBd]4[FBd]2 & B,,8|z2[FBd]4[FBd]2 & B,,8|z2[FBd]4[FBd]2 & B,,8|z2[FBd]4[FBd]2 & B,,8 :|]
